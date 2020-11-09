@@ -1,5 +1,5 @@
 # pizza-javascript
-Simulação de compra de pizza feita totalmente com Javascript. O projeto foi desenvolvido durante o curso de Javascript da plataforma [B7Web](https://b7web.com.br/fullstack/) para me apromorar na linguagem. O HTML e CSS foram disponibilizados pelo professor, podendo focar totalmente na linguagem do curso.
+Simulação de compra de pizza feita totalmente com Javascript. O projeto foi desenvolvido durante o curso de Javascript da plataforma [B7Web](https://b7web.com.br/fullstack/) para me aprimorar na linguagem. O HTML e CSS foram disponibilizados pelo professor, podendo focar totalmente na linguagem do curso.
 
 ## Funcionalidades
 
